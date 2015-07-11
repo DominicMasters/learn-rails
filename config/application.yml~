@@ -1,0 +1,11 @@
+# Add account credentials and API keys here.
+# See http://railsapps.github.io/rails-environment-variables.html
+# This file should be listed in .gitignore to keep your settings secret!
+# Each entry sets a local environment variable and overrides ENV variables in the Unix
+shell.
+GMAIL_USERNAME: dominic.masters@gmail.com
+GMAIL_PASSWORD: pinkelephant
+MAILCHIMP_API_KEY: d2dd97caff0640685ec13d23af218a1d-us11
+MAILCHIMP_LIST_ID: 19f0042f9b
+DOMAIN_NAME: example.com
+OWNER_EMAIL: me@example.com
